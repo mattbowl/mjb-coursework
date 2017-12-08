@@ -111,6 +111,12 @@ gets smaller to have a one colmun layout*/
   }
 }
 
+@media (max-width: 500px) {
+  h1, .hero-text p {
+    font-size: 80%;
+  }
+}
+
 /*Create a border around the main body of text*/
 .row {
   border-style: solid;
