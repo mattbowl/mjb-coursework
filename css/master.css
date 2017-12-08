@@ -111,10 +111,14 @@ gets smaller to have a one colmun layout*/
   }
 }
 
-@media (max-width: 300px) {
-  h1, .hero-text p {
-    font-size: 85%;
-  }
+@media (max-width: 600px) {
+    h1 {
+        font-size: 30px
+    }
+    
+    .hero-text p {
+        font-size: 15px;
+    }
 }
 
 /*Create a border around the main body of text*/
