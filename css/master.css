@@ -111,9 +111,9 @@ gets smaller to have a one colmun layout*/
   }
 }
 
-@media (max-width: 500px) {
-  h1, .hero-text p {
-    font-size: 80%;
+@media (max-width: 300px) {
+  h1, .hero-text p, .navbar a {
+    font-size: 90%;
   }
 }
 
