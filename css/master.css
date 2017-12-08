@@ -119,6 +119,10 @@ gets smaller to have a one colmun layout*/
     .hero-text p {
         font-size: 15px;
     }
+    
+    .navbar a {
+        padding: 10px;
+    }
 }
 
 /*Create a border around the main body of text*/
